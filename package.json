@@ -1,0 +1,28 @@
+{
+  "name": "finsoft-deployer",
+  "version": "0.0.1",
+  "description": "Used to deploy Finsoft apps",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atom/electron-quick-start.git"
+  },
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial"
+  ],
+  "author": "GitHub",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/atom/electron-quick-start/issues"
+  },
+  "homepage": "https://github.com/atom/electron-quick-start#readme",
+  "devDependencies": {
+    "electron-prebuilt": "^0.34.0"
+  }
+}

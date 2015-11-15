@@ -1,0 +1,1 @@
+An Electron application for deploying Finsoft applications
